@@ -1,0 +1,28 @@
+input{
+    font-size: 20px;
+    border-radius: 10px;
+}
+input:hover{
+    color:#663300;
+    outline: none;
+    border: 4px solid #663300;
+}
+
+button{
+    background-color: 	#bb9966;
+    color: 	#663300;
+}
+button:hover{
+    background-color: 	#663300;
+    color: 	#f3f1ef;
+    transition: all .3s ease-in-out;
+    border: none;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 8px 8px 0 rgba(0,0,0,0.19);
+}
+.ulitems{
+    padding: 10px;
+}
+li{
+    padding: 10px;
+    font-weight: bold;
+}
